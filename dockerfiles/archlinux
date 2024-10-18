@@ -1,0 +1,2 @@
+FROM --platform=i386 ljmf00/archlinux:latest
+CMD [ "/bin/bash" ]
